@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectResources">
+    <resource url="https://checkstyle.org/dtds/configuration_1_3.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.1/extResources/385f0dd3_configuration_1_3.dtd" />
+    <resource url="https://checkstyle.org/dtds/suppressions_1_2.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.1/extResources/c4ff3eba_suppressions_1_2.dtd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE suppressions PUBLIC
+        "-//Checkstyle//DTD SuppressionFilter Configuration 1.2//EN"
+        "https://checkstyle.org/dtds/suppressions_1_2.dtd">
+
+<suppressions>
+    <!-- can't split long messages between lines -->
+    <suppress id="lineLengthXml" files="google_checks\.xml" lines="56,126"/>
+    <!-- don't validate generated files -->
+    <suppress id="lineLengthXml" files="releasenotes\.xml"/>
+    <suppress id="lineLengthXml" files="[\\/]meta[\\/]"/>
+
+    <suppress checks="FileLength"
+              files="TokenTypes.java|IndentationCheckTest.java"
+              lines="1"/>
+</suppressions>
